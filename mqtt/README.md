@@ -1,4 +1,4 @@
-# Internet
+# MQTT
 O objetivo desse trabalho é desenvolver um código capaz de fazer o ESP32 enviar uma variável do ambiente (simulada), através do protocolo mqtt, para o servidor Broker MQTT público [HiveMQ](https://www.hivemq.com/mqtt-cloud-broker/)
 
 ## Resumo
